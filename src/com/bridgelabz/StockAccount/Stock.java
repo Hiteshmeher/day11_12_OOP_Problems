@@ -49,7 +49,7 @@ public class Stock {
 	
 	public void addShare() {
 		/**
-		 * taking user input for share details
+		 * taking user input for Share details
 		 */
 		Scanner input = new Scanner(System.in);
 		System.out.println("\nEnter the Name of Share");
